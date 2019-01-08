@@ -1,0 +1,6 @@
+This is an Ongoing Project .......
+
+# Task 1: Google Authentication (in Progress)
+# Task 2: Dashboard - React (Backlog)
+
+........
